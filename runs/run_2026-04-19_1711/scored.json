@@ -1,0 +1,35 @@
+[
+  {
+    "domain": "connectivity_and_access",
+    "mention_count": 0,
+    "personas_mentioning": [],
+    "avg_severity": null,
+    "avg_frequency": null,
+    "avg_switch_likelihood": null,
+    "avg_confidence": null,
+    "competitors_mentioned": [],
+    "workarounds_found": 0
+  },
+  {
+    "domain": "integrations_and_extensibility",
+    "mention_count": 0,
+    "personas_mentioning": [],
+    "avg_severity": null,
+    "avg_frequency": null,
+    "avg_switch_likelihood": null,
+    "avg_confidence": null,
+    "competitors_mentioned": [],
+    "workarounds_found": 0
+  },
+  {
+    "domain": "ai_and_intelligence",
+    "mention_count": 0,
+    "personas_mentioning": [],
+    "avg_severity": null,
+    "avg_frequency": null,
+    "avg_switch_likelihood": null,
+    "avg_confidence": null,
+    "competitors_mentioned": [],
+    "workarounds_found": 0
+  }
+]

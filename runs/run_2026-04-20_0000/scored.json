@@ -1,0 +1,62 @@
+[
+  {
+    "domain": "connectivity_and_access",
+    "mention_count": 4,
+    "personas_mentioning": [
+      "power_user",
+      "solo_creator",
+      "product_manager",
+      "enterprise"
+    ],
+    "avg_severity": "7.00",
+    "avg_frequency": "5.25",
+    "avg_switch_likelihood": "4.50",
+    "avg_confidence": "5.72",
+    "competitors_mentioned": [
+      "Linear",
+      "Google Docs",
+      "Confluence"
+    ],
+    "workarounds_found": 4
+  },
+  {
+    "domain": "integrations_and_extensibility",
+    "mention_count": 4,
+    "personas_mentioning": [
+      "power_user",
+      "solo_creator",
+      "product_manager",
+      "enterprise"
+    ],
+    "avg_severity": "7.25",
+    "avg_frequency": "8.50",
+    "avg_switch_likelihood": "5.25",
+    "avg_confidence": "7.75",
+    "competitors_mentioned": [
+      "Linear",
+      "HubSpot",
+      "Confluence"
+    ],
+    "workarounds_found": 4
+  },
+  {
+    "domain": "ai_and_intelligence",
+    "mention_count": 4,
+    "personas_mentioning": [
+      "power_user",
+      "solo_creator",
+      "product_manager",
+      "enterprise"
+    ],
+    "avg_severity": "7.00",
+    "avg_frequency": "7.75",
+    "avg_switch_likelihood": "5.75",
+    "avg_confidence": "6.86",
+    "competitors_mentioned": [
+      "Claude",
+      "ChatGPT",
+      "Microsoft Copilot"
+    ],
+    "workarounds_found": 4
+  }
+]

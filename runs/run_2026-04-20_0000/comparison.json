@@ -1,0 +1,75 @@
+{
+  "spearman_rho": "0.500",
+  "overlap_rate": "3/3",
+  "summary": {
+    "confirmed": 3,
+    "persona_only": 0,
+    "webcrawl_only": 0,
+    "undetected": 0
+  },
+  "signals": [
+    {
+      "domain": "connectivity_and_access",
+      "overlap": true,
+      "gap_type": "CONFIRMED",
+      "confidence_delta": "1.48",
+      "persona_mention_count": 4,
+      "webcrawl_source_count": 3,
+      "personas_mentioning": [
+        "power_user",
+        "solo_creator",
+        "product_manager",
+        "enterprise"
+      ],
+      "competitors_mentioned": [
+        "Linear",
+        "Google Docs",
+        "Confluence"
+      ],
+      "persona_severity_rank": 2,
+      "webcrawl_severity_rank": 1
+    },
+    {
+      "domain": "integrations_and_extensibility",
+      "overlap": true,
+      "gap_type": "CONFIRMED",
+      "confidence_delta": "0.95",
+      "persona_mention_count": 4,
+      "webcrawl_source_count": 3,
+      "personas_mentioning": [
+        "power_user",
+        "solo_creator",
+        "product_manager",
+        "enterprise"
+      ],
+      "competitors_mentioned": [
+        "Linear",
+        "HubSpot",
+        "Confluence"
+      ],
+      "persona_severity_rank": 1,
+      "webcrawl_severity_rank": 2
+    },
+    {
+      "domain": "ai_and_intelligence",
+      "overlap": true,
+      "gap_type": "CONFIRMED",
+      "confidence_delta": "1.76",
+      "persona_mention_count": 4,
+      "webcrawl_source_count": 2,
+      "personas_mentioning": [
+        "power_user",
+        "solo_creator",
+        "product_manager",
+        "enterprise"
+      ],
+      "competitors_mentioned": [
+        "Claude",
+        "ChatGPT",
+        "Microsoft Copilot"
+      ],
+      "persona_severity_rank": 3,
+      "webcrawl_severity_rank": 3
+    }
+  ]
+}

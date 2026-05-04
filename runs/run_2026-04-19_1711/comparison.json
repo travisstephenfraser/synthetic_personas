@@ -1,0 +1,48 @@
+{
+  "spearman_rho": "1.000",
+  "overlap_rate": "0/3",
+  "summary": {
+    "confirmed": 0,
+    "persona_only": 0,
+    "webcrawl_only": 3,
+    "undetected": 0
+  },
+  "signals": [
+    {
+      "domain": "connectivity_and_access",
+      "overlap": false,
+      "gap_type": "WEBCRAWL_ONLY",
+      "confidence_delta": "NaN",
+      "persona_mention_count": 0,
+      "webcrawl_source_count": 3,
+      "personas_mentioning": [],
+      "competitors_mentioned": [],
+      "persona_severity_rank": 1,
+      "webcrawl_severity_rank": 1
+    },
+    {
+      "domain": "integrations_and_extensibility",
+      "overlap": false,
+      "gap_type": "WEBCRAWL_ONLY",
+      "confidence_delta": "NaN",
+      "persona_mention_count": 0,
+      "webcrawl_source_count": 3,
+      "personas_mentioning": [],
+      "competitors_mentioned": [],
+      "persona_severity_rank": 2,
+      "webcrawl_severity_rank": 2
+    },
+    {
+      "domain": "ai_and_intelligence",
+      "overlap": false,
+      "gap_type": "WEBCRAWL_ONLY",
+      "confidence_delta": "NaN",
+      "persona_mention_count": 0,
+      "webcrawl_source_count": 2,
+      "personas_mentioning": [],
+      "competitors_mentioned": [],
+      "persona_severity_rank": 3,
+      "webcrawl_severity_rank": 3
+    }
+  ]
+}
